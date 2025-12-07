@@ -29,7 +29,7 @@ This tool demonstrates basic virtual memory concepts such as page tables, page n
 
 ## 📂 Project Structure
 ```
-app.py               # Main application file
+app2.py               # Main application file
 README.md            # Project documentation
 ```
 
@@ -64,7 +64,8 @@ The GUI window will open.
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here)
+![UI Screenshot](image.png)
+
 
 ---
 
@@ -73,10 +74,4 @@ This application was developed as part of the **EEX5564 – Computer Architectur
 at the **Open University of Sri Lanka**.
 
 ---
-
-## 📎 Appendix
-Full project report and documentation available in LMS submission.
-
-GitHub Repo:  
-👉 *Add this link after uploading your repo*
 
